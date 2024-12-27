@@ -1,0 +1,22 @@
+{
+  "name": "pratik_jadhav-backend_fullstack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "express",
+    "Mongodb",
+    "backend"
+  ],
+  "author": "Pratik Jadhav",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.2"
+  }
+}
