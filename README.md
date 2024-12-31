@@ -38,7 +38,7 @@ Before you start, ensure you have the following installed on your system:
    ALLOWED_ORIGIN=http://localhost:5173
 
    MONGODB_URL=Your MongoDB connection string  (Example: mongodb+srv://YourName:YourPassword@cluster0.cdztx.mongodb.net/cric )
-   ``
+
    ```
 
 ## Running the Application
@@ -72,7 +72,6 @@ Before you start, ensure you have the following installed on your system:
 - `mongoose`: MongoDB object modeling tool
 - `dotenv`: Loads environment variables from `.env` file
 - `cors`: Enables Cross-Origin Resource Sharing
-- `socket.io`: Real-time bidirectional event-based communication
 
 ### Dev Dependencies:
 
